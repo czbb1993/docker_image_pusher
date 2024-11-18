@@ -11,3 +11,4 @@
 #gdy666/lucky
 
 snowdreamtech/frps
+snowdreamtech/frpc
