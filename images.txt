@@ -12,4 +12,4 @@
 
 #snowdreamtech/frps
 #snowdreamtech/frpc
-ghcr.io/heyputer/puter:latest
+ghcr.io/heyputer/puter
