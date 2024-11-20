@@ -9,7 +9,7 @@
 #主页
 #hslr/sun-panel:latest
 #gdy666/lucky
-
 #snowdreamtech/frps
 #snowdreamtech/frpc
+
 ghcr.io/heyputer/puter
