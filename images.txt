@@ -11,5 +11,5 @@
 #gdy666/lucky
 #snowdreamtech/frps
 #snowdreamtech/frpc
-ghcr.io/heyputer/puter
+--platform=linux/amd64 ghcr.io/heyputer/puter:latest
 #linuxserver/heimdall
