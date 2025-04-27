@@ -5,9 +5,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #文件管理器
-#filebrowser/filebrowser
+filebrowser/filebrowser
 #主页
-#hslr/sun-panel:latest
+hslr/sun-panel:latest
 #gdy666/lucky
 #snowdreamtech/frps
 #snowdreamtech/frpc
@@ -15,4 +15,5 @@
 #linuxserver/heimdall
 #justsong/go-file
 #herberthe0229/iptv-sources
-xinjiawei1/emby_unlockd
+#xinjiawei1/emby_unlockd
+ghcr.io/beck-8/subs-check:latest
