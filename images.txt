@@ -8,7 +8,7 @@
 filebrowser/filebrowser
 #主页
 hslr/sun-panel:latest
-#gdy666/lucky
+gdy666/lucky
 #snowdreamtech/frps
 #snowdreamtech/frpc
 #--platform=linux/amd64 ghcr.io/heyputer/puter:latest
@@ -16,4 +16,5 @@ hslr/sun-panel:latest
 #justsong/go-file
 #herberthe0229/iptv-sources
 #xinjiawei1/emby_unlockd
-ghcr.io/beck-8/subs-check:latest
+ghcr.io/beck-8/subs-check
+vaultwarden/server
