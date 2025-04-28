@@ -18,3 +18,4 @@ gdy666/lucky
 #xinjiawei1/emby_unlockd
 ghcr.io/beck-8/subs-check
 vaultwarden/server
+cloudflare/cloudflared
