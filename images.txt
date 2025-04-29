@@ -21,3 +21,6 @@ vaultwarden/server
 cloudflare/cloudflared
 grafana/loki
 prom/prometheus
+grafana/grafana
+prom/node-exporter
+google/cadvisor
