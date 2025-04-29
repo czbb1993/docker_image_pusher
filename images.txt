@@ -19,3 +19,5 @@ gdy666/lucky
 ghcr.io/beck-8/subs-check
 vaultwarden/server
 cloudflare/cloudflared
+grafana/loki
+prom/prometheus
