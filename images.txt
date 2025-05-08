@@ -25,4 +25,6 @@ cloudflare/cloudflared
 #prom/node-exporter
 #google/cadvisor
 #adguard/adguardhome
-henrygd/beszel
+ghcr.io/nezhahq/nezha
+nginx:stable-alpine
+
