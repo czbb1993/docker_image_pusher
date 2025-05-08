@@ -25,3 +25,4 @@ cloudflare/cloudflared
 #prom/node-exporter
 #google/cadvisor
 adguard/adguardhome
+henrygd/beszel
