@@ -5,10 +5,10 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #文件管理器
-filebrowser/filebrowser
+#filebrowser/filebrowser
 #主页
-hslr/sun-panel:latest
-gdy666/lucky
+#hslr/sun-panel:latest
+#gdy666/lucky
 #snowdreamtech/frps
 #snowdreamtech/frpc
 #--platform=linux/amd64 ghcr.io/heyputer/puter:latest
@@ -17,14 +17,15 @@ gdy666/lucky
 #herberthe0229/iptv-sources
 #xinjiawei1/emby_unlockd
 #ghcr.io/beck-8/subs-check
-vaultwarden/server
-cloudflare/cloudflared
+#vaultwarden/server
+#cloudflare/cloudflared
 #grafana/loki
 #prom/prometheus
 #grafana/grafana
 #prom/node-exporter
 #google/cadvisor
 #adguard/adguardhome
-nginx:stable-alpine
-percona/percona-server:5.7
-uusec/nanqiang
+#nginx:stable-alpine
+#percona/percona-server:5.7
+#uusec/nanqiang
+tailscale/tailscale
