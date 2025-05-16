@@ -26,5 +26,5 @@ cloudflare/cloudflared
 #google/cadvisor
 #adguard/adguardhome
 nginx:stable-alpine
-percona/percona-server
+percona/percona-server:5.7
 uusec/nanqiang
