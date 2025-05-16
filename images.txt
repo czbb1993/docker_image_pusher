@@ -25,6 +25,6 @@ cloudflare/cloudflared
 #prom/node-exporter
 #google/cadvisor
 #adguard/adguardhome
-ghcr.io/nezhahq/nezha
 nginx:stable-alpine
-
+percona/percona-server
+uusec/nanqiang
