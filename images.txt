@@ -15,7 +15,7 @@
 #linuxserver/heimdall
 #justsong/go-file
 #herberthe0229/iptv-sources
-xinjiawei1/emby_unlockd
+xinjiawei1/emby_unlockd:latest
 #ghcr.io/beck-8/subs-check
 #vaultwarden/server
 #cloudflare/cloudflared
@@ -28,5 +28,5 @@ xinjiawei1/emby_unlockd
 #nginx:stable-alpine
 #percona/percona-server:5.7
 #uusec/nanqiang
-tailscale/tailscale
-fanningert/aria2-with-webui
+tailscale/tailscale:latest
+fanningert/aria2-with-webui:latest
