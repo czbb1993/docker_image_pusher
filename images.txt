@@ -29,3 +29,4 @@
 #percona/percona-server:5.7
 #uusec/nanqiang
 tailscale/tailscale
+fanningert/aria2
