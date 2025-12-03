@@ -4,7 +4,7 @@ set -euo pipefail
 # ======== 请在这里修改成你的公钥 ========
 # 可以放一个，也可以放多个，每行一个
 AUTHORIZED_KEYS=$(cat <<'EOF'
-SHA256:pWSvnkJ0uolub5pQnBQj/4gnSF86Y/qDHWZHnG3LTlA real-1764743106
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGfKBzloHhd0Tmz88RfRgysTI3II/f4sRcC5Fq02uWVk weinan@wang
 EOF
 )
 # ===========================================
